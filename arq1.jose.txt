@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 andre editou aqui
+=======
+teste1
+teste2
+>>>>>>> 4a6c611ae81e10168cb52378b7793efa4c4b4554
